@@ -1,4 +1,4 @@
-from urllib import request
+from urllib import request,urlretrieve
 from bs4 import BeautifulSoup
 import re
 
